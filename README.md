@@ -9,3 +9,6 @@
     - xây dựng các bảng Switch.  
 - **Router**: Router có thể kết nối với các loại mạng khác lại với nhau, từ những Ethernet cục bộ tốc độ cao cho đến đường dây điện thoại đường dài có tốc độ chậm.    
 - **Gateway**: Gateway cho phép nối ghép hai mạng dùng giao thức khác nhau.  
+###2.Mạng máy tính  
+- Khái niệm mạng máy tính:
+   - Là một hệ thống gồm nhiều máy tính và nhiều thiết bị kết nối bởi một đường truyền vật lí theo một kiến trúc (
